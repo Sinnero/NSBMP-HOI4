@@ -1,6 +1,6 @@
 # NSBMP Pacer: Adaptive Speed 5 Host Companion
 **Real-Time Dynamic Multiplayer Speed Synchronization for Hearts of Iron IV**  
-**Created by Sinnero**
+**Created by Axel Cyréus**
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-blue.svg)](#)
 [![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero%20(Built--in%20.NET)-success.svg)](#)
@@ -55,5 +55,5 @@ Every Windows 10/11 PC includes Microsoft's official C# compiler. You can inspec
 
 ## Credits & License
 
-Created by **Sinnero**.  
+Created by **Axel Cyréus**.  
 Licensed under the [MIT License](LICENSE).
